@@ -13,6 +13,6 @@ https://github.com/Irisveldman/asignment/blob/master/iris_assignment3_correct-ch
 https://github.com/Irisveldman/asignment/blob/master/week3-checkpoint.ipynb
 
 ## Assignment 4:
-
+https://github.com/Irisveldman/asignment/blob/master/assignment4-checkpoint.ipynb
 
 ## Week 4:
