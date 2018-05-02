@@ -18,7 +18,9 @@ https://github.com/Irisveldman/asignment/blob/master/assignment4-checkpoint.ipyn
 ## Week 4:
 https://github.com/Irisveldman/asignment/blob/master/week4.ipynb
 
-## Assignment 5:
-
 
 ## Week 5
+
+
+## Assignment 6
+https://github.com/Irisveldman/asignment/blob/master/Graded_assignment1-checkpoint.ipynb
