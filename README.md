@@ -20,6 +20,7 @@ https://github.com/Irisveldman/asignment/blob/master/week4.ipynb
 
 
 ## Week 5
+https://github.com/Irisveldman/asignment/blob/master/Merging-checkpoint.ipynb
 
 
 ## Assignment 6
