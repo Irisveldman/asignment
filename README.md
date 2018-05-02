@@ -22,6 +22,7 @@ https://github.com/Irisveldman/asignment/blob/master/week4.ipynb
 ## Week 5
 https://github.com/Irisveldman/asignment/blob/master/Readdata-checkpoint.ipynb
 https://github.com/Irisveldman/asignment/blob/master/Merging-checkpoint.ipynb
+https://github.com/Irisveldman/asignment/blob/master/Tidyr.ipynb
 
 ## Assignment 6
 https://github.com/Irisveldman/asignment/blob/master/Graded_assignment1-checkpoint.ipynb
