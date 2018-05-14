@@ -29,3 +29,6 @@ https://github.com/Irisveldman/asignment/blob/master/Graded_assignment1-checkpoi
 
 ## Week 6
 https://github.com/Irisveldman/asignment/blob/master/Functions_and_controls.ipynb
+
+## Assignment 7
+https://github.com/Irisveldman/asignment/blob/master/Graded_assignment_2.ipynb
