@@ -26,3 +26,6 @@ https://github.com/Irisveldman/asignment/blob/master/Tidyr.ipynb
 
 ## Assignment 6
 https://github.com/Irisveldman/asignment/blob/master/Graded_assignment1-checkpoint.ipynb
+
+## Week 6
+https://github.com/Irisveldman/asignment/blob/master/Functions_and_controls.ipynb
