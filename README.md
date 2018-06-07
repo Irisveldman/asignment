@@ -34,3 +34,7 @@ https://github.com/Irisveldman/asignment/blob/master/Maps.ipynb
 
 ## Assignment 7
 https://github.com/Irisveldman/asignment/blob/master/Graded_assignment_2.ipynb
+
+
+## Final assignment
+https://github.com/Irisveldman/asignment/blob/master/Exam_student.ipynb
