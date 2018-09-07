@@ -42,3 +42,5 @@ https://github.com/Irisveldman/asignment/blob/master/exam_june_7_2018.ipynb
 
 
 ## Exam 7 sept
+Python: https://github.com/Irisveldman/asignment/blob/master/exam_Sep_7_2018.ipynb
+R: 
